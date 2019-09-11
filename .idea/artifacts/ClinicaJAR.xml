@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ClinicaJAR">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClinicaJAR</output-path>
+    <root id="archive" name="ClinicaJAR.jar" />
+  </artifact>
+</component>
